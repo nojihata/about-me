@@ -6,4 +6,10 @@ tag: Introduction
 author: You
 ---
 
-## h2 Heading
+## What's this website?
+
+On this site I introduce myself and my portfolio.
+
+I use HTML, CSS and Javascript. Now I' m interested in React.
+
+JIAMARI
